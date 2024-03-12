@@ -6,7 +6,7 @@ The fact that you are reading this I find very surprising, considering I have no
 
 You must be one of my classmates who got bored and started wandering around on your computer doing absolutely fuck zero.
 
-If you are not one of my classmates then I am sorry dissapoint, here you won't find anything interesting.
+If you are not one of my classmates then I am sorry to dissapoint, here you won't find anything interesting.
 
 As a college student trying to get my degree in software engineering, I don't have much free time, and the time that I do get, I spend harassing children in the video game Rust or watching anime.
 
