@@ -1,6 +1,6 @@
 👋 Hi there, my name is Senne, and online I go by the name 12lolo.
 
-I picked this name when I was six years old and needed to come up with a Roblox username and after all these years I've stuck with it ¯_(ツ)_/¯.
+I picked this name when I was six years old and needed to come up with a Roblox username and after all these years I've stuck with it ¯\_(ツ)_/¯.
 
 The fact that you are reading this I find very surprising, considering I have no friends and negative social skills.
 
