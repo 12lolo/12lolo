@@ -1,4 +1,4 @@
-<h1 style="font-weight: bold" >👋 Hi there,</h1> my name is Senne, and online I go by the name 12lolo.
+<h1 style="font-weight: bold; font-family: Cursive">👋 Hi there,</h1> my name is Senne, and online I go by the name 12lolo.
 
 I picked this name when I was six years old and needed to come up with a Roblox username and after all these years I've stuck with it ¯\_(ツ)_/¯.
 
