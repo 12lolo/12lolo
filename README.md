@@ -6,7 +6,7 @@ I picked this name when I was six years old and needed to come up with a Roblox 
 
 The fact that you are reading this I find very surprising, considering I have no friends and negative social skills.
 
-You must be one of my classmates who got bored and started wandering around on your computer doing absolutely fuck zero.
+You must be one of my classmates who got bored and started wandering around on your computer doing absolutely nothing.
 
 If you are not one of my classmates then I am sorry to dissapoint, here you won't find anything interesting.
 
