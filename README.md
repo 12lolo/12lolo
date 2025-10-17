@@ -1,27 +1,30 @@
-<h1 style="font-weight: bold; font-family: 'Comic Sans MS', cursive;"
->👋 Hi there,</h1>
-my name is Senne, and online I go by the name 12lolo.
+# Senne Visser — @12lolo 👋
 
-I picked this name when I was six years old and needed to come up with a Roblox username and after all these years I've stuck with it ¯\_(ツ)_/¯.
+Hi! I’m **Senne Visser** (GitHub: **12lolo**).  
+I like building tools, automating stuff, and tinkering with Linux & hardware.
 
-The fact that you are reading this I find very surprising, considering I have no friends and negative social skills.
+---
 
-You must be one of my classmates who got bored and started wandering around on your computer doing absolutely nothing.
+## GitHub Overview
 
-If you are not one of my classmates then I am sorry to dissapoint, here you won't find anything interesting.
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12lolo&theme=tokyonight)
 
-As a college student trying to get my degree in software engineering, I don't have much free time, and the time that I do get, I spend harassing children in the video game Rust or watching anime.
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12lolo&theme=tokyonight" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=12lolo&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
-At the time I am writing this, it is 3 am, and classes start at half-past 8.
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12lolo&theme=tokyonight)
 
-Yes, my sleeping schedule is ruined, but I blame it all on the French.
+---
 
-Why? you may ask. Well, I just don't like them.
+## Featured Projects
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=12lolo&repo=REPO1&theme=tokyonight&hide_border=true)](https://github.com/12lolo/REPO1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=12lolo&repo=REPO2&theme=tokyonight&hide_border=true)](https://github.com/12lolo/REPO2)
 
-Also, a fun fact about the French:
+---
 
-they were the first people to ever make a word for surrender, etymons.
-
-Well, that's all from me for now. Maybe I'll get bored another time and update this.
-
-Bye-bye
+## About me
+- 💻 Dev focus: PHP/Laravel, Python, Arch/Bazzite Linux
+- 🔧 Hobbies: electronics, sailing, game servers
+- 📍 Netherlands
