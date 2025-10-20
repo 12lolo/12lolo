@@ -1,4 +1,4 @@
-# Senne Visser — 12lolo 👋
+# Senne Visser — @12lolo 👋
 
 Hi! I’m **Senne Visser** (GitHub: **12lolo**).  
 I like building tools, automating stuff, and tinkering with Linux & hardware.
